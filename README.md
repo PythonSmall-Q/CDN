@@ -1,6 +1,9 @@
-这个仓库是XMOJ BBS的CDN仓库，使用GitHub Proxy拉取。非Collaborator请勿发起Pull Request。
+# 提示
+论坛地址：https://xmoj.flarum.cloud/
+论坛提示邮箱：xmojbbs@outlook.com （自动发送）
+论坛支持邮箱：xmojbbs@outlook.com （自动转发至客服邮箱）
 
-
+# 项目对比（两个开发者整烂活用的）
 | 项目       | 小明的OJ外挂论坛             | XMOJ增强脚本                                 |
 | :--------- | :----------------------------------- | :------------------------------------------- |
 | 界面       | :+1: 界面很好看                      | :x: 界面不是很好看                           |
